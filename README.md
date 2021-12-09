@@ -2,6 +2,7 @@
 This is a basic simulation of HTTP load balancer using nginx image and creating apps using python flask
 
 Install and running
+
 `git clone https://github.com/Prajwalmithun/container-loadbalancer.git`
 
 `docker-compose run --build`
